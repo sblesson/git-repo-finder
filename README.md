@@ -1,4 +1,4 @@
-# react-redux-saga
+# This project allows users to search git repository names and view the result as a list 
 
 The project was generated from `create-react-app` and then I included a few libraries.
 
